@@ -9,7 +9,12 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+profile!;Full-Stack+Web+Developer;Machine+Learning+Enthusiast;Computer+Vision+Specialist;Exploring+Quantum-Inspired+Solutions!" alt="Typing SVG" />
   
----
+  <div align="center">
+    <a href="https://nazmul-haque-nihal.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-nazmul--haque--nihal.github.io-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio">
+    </a>
+  </div>
+
 </div>
 
 ## 🚀 About Me
